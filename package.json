@@ -6,9 +6,12 @@
   "author": "Luiz Nascimento <luizp.nascimento@outlook.com>",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^8.0.0"
+    "nodemon": "^2.0.7",
+    "puppeteer": "^8.0.0",
+    "ts-node": "^9.1.1"
   },
   "devDependencies": {
+    "@types/puppeteer": "^5.4.3",
     "@typescript-eslint/eslint-plugin": "^4.17.0",
     "@typescript-eslint/parser": "^4.17.0",
     "eslint": "^7.22.0",
